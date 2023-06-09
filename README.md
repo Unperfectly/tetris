@@ -1,4 +1,5 @@
 ICS4U Summative Project Proposal
+
 a.	I am aiming to code a complex level program.
 
 b.	What I will be coding is Tetris, it is a Russian-made puzzle video game. I will be recreating my own remake of it. How the game works is there are 6 game pieces that are called tetrominoes. They are shaped as follows, L, I, S, Z, O, T. They fall from the middle of the top of a 2-D plane who’s size is about W 1:2 L. The goal of the game is to fill a whole horizontal row with block pieces, and when this happens, that row will cancel out and you will get points. You are allowed to freely rotate the given shapes as desired. Points will be counted My goal is to create this game as well as add my own twist to it. I would like to create a sort of AI which would play the game on one plane one the user plays in another plane. 
